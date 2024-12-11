@@ -3,6 +3,8 @@
 Titulo
 =================
 
+ `documentação de como escrever documentação <https://docs.anaconda.com/restructuredtext/>`_
+
 .. note:: 
   nota loka?
 
