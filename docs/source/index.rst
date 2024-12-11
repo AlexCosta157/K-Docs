@@ -18,6 +18,8 @@ Contents
 
 .. toctree::
 
+   linux
+   docker
    usage
    api
    test
