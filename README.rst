@@ -1,8 +1,7 @@
-Template for the Read the Docs tutorial
+Docs for Ducks
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Cuz ducks need docs
 
 Read the tutorial here:
 
